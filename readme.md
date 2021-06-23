@@ -1,2 +1,2 @@
-#tribute webpage
-#Free Code Camp responsive webdesign course Assignment 1
+# tribute webpage
+# Free Code Camp responsive webdesign course Assignment 1
